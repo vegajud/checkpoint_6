@@ -6,3 +6,6 @@ class Usuario:
         self.contrasena = contrasena
 
 usuario1 = Usuario('jvega', 'esaeslaclave')
+
+print(f"El nombre de usuario es {usuario1.nombre_usuario}")
+print(f"La contraseña '{usuario1.contrasena}' es correcta")
