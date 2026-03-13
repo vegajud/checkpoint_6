@@ -64,7 +64,8 @@ Teniendo esto en cuenta, __MongoDB__ es una base de datos NoSQL, un sistema orie
 
 Una __API__ o __Interfaz de Programación de Aplicaciones__ es un conjunto de reglas, protocolos y herramientas que permite que dos componentes de software se comuniquen e intercambien datos entre sí de forma segura. Actúa como un intermediario o "puente" que facilita a los desarrolladores integrar funcionalidades de otras aplicaciones sin necesidad de crearlas desde cero
 
-![API](https://github.com/vegajud/checkpoint_6/blob/main/images/API_que)
+![API](https://github.com/vegajud/checkpoint_6/blob/main/images/API_que.png)
+
 [Fuente imagen: outvio](https://outvio.com/es/blog/que-es-una-api/)
 
 ## ¿Qué es Postman?
