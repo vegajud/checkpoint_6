@@ -104,7 +104,7 @@ __Funcionamiento de una API__
 
 Funcionan compartiendo datos entre aplicaciones, sistemas y dispositivos. Esto se produce mediante un ciclo de solicitud y respuesta. La solicitud se envía a la API, que recupera los datos y los devuelve al usuario.
 
-![API](/Users/juditvega/Desktop/Cursos/programacion_2/checkpoints/checkpoint_6/images/API_que.png)
+![API](images/API_que.png)
 [Fuente imagen: outvio](https://outvio.com/es/blog/que-es-una-api/)
 
 El funcionamiento básico es siempre petición - procesamiento - respuesta:
